@@ -2,7 +2,7 @@
 
 ## Description
 
-Dans ce projet, nous avons implémenté un programme qui calcule la somme de deux nombres.
+Le code est écrit en Python et utilise le module sys. La fonction principale du code est appelée generateur(), elle utilise la syntaxe yield pour renvoyer une suite de nombres de 0 à 105. Ensuite, la fonction getsizeof() est utilisée pour calculer l'espace mémoire utilisé par la variable mavar qui contient les valeurs renvoyées par la fonction generateur().
 
 ## Comment utiliser le programme
 
